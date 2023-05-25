@@ -1,4 +1,4 @@
-# Spring Boot 3.0 Security with JWT Implementation
+# School Management Peoject - Test for Anywr
 This test project aims to demostrate :
 
 ## Features
