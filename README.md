@@ -1,5 +1,5 @@
 # School Management Project - Test for Anywr
-This test project aims to demostrate :
+This is spring boot test project for achieving submitted test from Anywr Group
 
 ## Features
 * User registration and login with JWT authentication
