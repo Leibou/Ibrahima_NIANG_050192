@@ -1,0 +1,12 @@
+package org.anywrtest.repositories;
+
+import java.util.Optional;
+
+import org.anywrtest.entities.User;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UserRepository extends JpaRepository<User, Integer> {
+
+  Optional<User> findByEmail(String email);
+
+}
