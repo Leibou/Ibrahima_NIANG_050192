@@ -1,4 +1,4 @@
-# School Management Peoject - Test for Anywr
+# School Management Project - Test for Anywr
 This test project aims to demostrate :
 
 ## Features
